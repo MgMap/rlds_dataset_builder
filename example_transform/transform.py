@@ -4,7 +4,7 @@ from PIL import Image
 
 
 ################################################################################################
-#                                        Target config                                         #
+#                                      Target config                                         #
 ################################################################################################
 # features=tfds.features.FeaturesDict({
 #     'steps': tfds.features.Dataset({
